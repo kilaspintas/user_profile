@@ -7,8 +7,7 @@ class ProfileUI extends StatelessWidget{
     return Column(
       children: [
         Stack(
-          overflow: Overflow.visible,
-          alignment: Alignment.center,
+          clipBehavior: Clip.none, alignment: Alignment.center,
           children: [
             Image(
               width: double.infinity,
