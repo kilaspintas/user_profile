@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.user_profile">
    <application
-        android:label="user_profile"
+        android:label="By.u KW"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

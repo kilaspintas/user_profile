@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:user_profile/Firebase/googleSetup.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:user_profile/Firebase/notification.dart';
-import 'package:user_profile/Page/PageFunction/addEdit.dart';
 import 'package:user_profile/Page/PageFunction/listProvider.dart';
 import 'package:user_profile/session.dart';
 
@@ -27,7 +26,6 @@ class MyApp extends StatelessWidget{
       providers: [
         ChangeNotifierProvider(create: (context) => GoogleSignInProvider()),
         ChangeNotifierProvider(create: (context) => ListProvider()),
-
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
