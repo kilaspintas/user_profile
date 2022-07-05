@@ -1,2 +1,2 @@
 # user_profile
-https://c.tenor.com/_28zih0m0WkAAAAC/patrick-patrick-star.gif
+https://i.pinimg.com/originals/5a/74/dc/5a74dc1edc469d9a6d985338f1cdd230.jpg
